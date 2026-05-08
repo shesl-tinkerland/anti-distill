@@ -15,6 +15,7 @@
 <p align="center">
   <a href="#zh-cn"><img alt="中文" src="https://img.shields.io/badge/中文-阅读-black?style=flat-square" /></a>
   <a href="#en"><img alt="English" src="https://img.shields.io/badge/English-Read-black?style=flat-square" /></a>
+  <a href="https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme_badge&utm_campaign=anti_distill"><img alt="Try Online" src="https://img.shields.io/badge/Try_Online-socialistic.ai-00d4aa?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz48cGF0aCBkPSJNNiA1bDUgMy01IDN6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white" /></a>
   <a href="https://discord.gg/aD7mWSu5RP"><img alt="Discord" src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
   <a href="https://x.com/kokisanai"><img alt="X" src="https://img.shields.io/badge/X-@kokisanai-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
@@ -124,13 +125,9 @@ anti-distill/
 
 ### 在线体验
 
-如果你只是想先试一下效果，不想安装 Claude Code 或配置环境，可以直接打开这个在线体验链接：
+不想装 Claude Code？点击下面的 badge 直接在浏览器里体验：
 
-> [点这里直接体验 anti-distill](https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=issue&utm_campaign=xhs_github_skill_creator&utm_content=hyperlink)
-
-从小红书或其他社交平台点进来的读者，可以直接在浏览器里体验，少走一段安装和配置流程。
-
-<img src="https://raw.githubusercontent.com/shesl-tinkerland/socialistic-cards/main/anti-distill-11e494.png" width="30%" />
+<a href="https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme_badge&utm_campaign=anti_distill"><img alt="Try on socialistic.ai" src="https://img.shields.io/badge/▶_Try_Online-socialistic.ai-00d4aa?style=for-the-badge&labelColor=0d1117&logoColor=white" /></a>
 
 ---
 
@@ -241,13 +238,9 @@ anti-distill/
 
 ### Try Online
 
-If you want to test it quickly without installing Claude Code or setting up an environment, use this online demo link:
+No Claude Code installation needed — click the badge to try it in your browser:
 
-> [Try anti-distill online](https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=issue&utm_campaign=xhs_github_skill_creator&utm_content=hyperlink)
-
-This is especially useful for readers coming from Xiaohongshu or other social platforms, since they can try it directly in the browser.
-
-<img src="https://raw.githubusercontent.com/shesl-tinkerland/socialistic-cards/main/anti-distill-11e494.png" width="30%" />
+<a href="https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme_badge&utm_campaign=anti_distill"><img alt="Try on socialistic.ai" src="https://img.shields.io/badge/▶_Try_Online-socialistic.ai-00d4aa?style=for-the-badge&labelColor=0d1117&logoColor=white" /></a>
 
 ---
 
