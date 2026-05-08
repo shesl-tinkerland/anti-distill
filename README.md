@@ -125,9 +125,9 @@ anti-distill/
 
 ### 在线体验
 
-不想装 Claude Code？点击下面的 badge 直接在浏览器里体验：
+如果你只是想先试一下效果，不想安装 Claude Code 或配置环境，可以直接打开这个在线体验链接。从小红书或其他社交平台点进来的读者，可以直接在浏览器里体验，少走一段安装和配置流程。
 
-<a href="https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme_badge&utm_campaign=anti_distill"><img alt="Try on socialistic.ai" src="https://img.shields.io/badge/▶_Try_Online-socialistic.ai-00d4aa?style=for-the-badge&labelColor=0d1117&logoColor=white" /></a>
+<a href="https://socialistic.ai/zh/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme&utm_content=badge&utm_campaign=anti_distill"><img src="https://socialistic.ai/api/embed/anti-distill-11e494?lang=zh" alt="在 Socialistic 上体验 anti-distill" width="600" /></a>
 
 ---
 
@@ -238,9 +238,9 @@ anti-distill/
 
 ### Try Online
 
-No Claude Code installation needed — click the badge to try it in your browser:
+If you just want to try it out without installing Claude Code or setting up an environment, click the card below. Readers coming from Xiaohongshu or other social platforms can try it directly in the browser — no setup required.
 
-<a href="https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme_badge&utm_campaign=anti_distill"><img alt="Try on socialistic.ai" src="https://img.shields.io/badge/▶_Try_Online-socialistic.ai-00d4aa?style=for-the-badge&labelColor=0d1117&logoColor=white" /></a>
+<a href="https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme&utm_content=badge&utm_campaign=anti_distill"><img src="https://socialistic.ai/api/embed/anti-distill-11e494?lang=en" alt="Try anti-distill on Socialistic" width="600" /></a>
 
 ---
 
